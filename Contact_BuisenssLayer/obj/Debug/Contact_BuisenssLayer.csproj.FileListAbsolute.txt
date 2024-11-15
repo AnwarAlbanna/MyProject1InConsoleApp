@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\Contact_BuisenssLayer\bin\Debug\Contact_BuisenssLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\Contact_BuisenssLayer\bin\Debug\Contact_BuisenssLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\Contact_BuisenssLayer\obj\Debug\Contact_BuisenssLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\Contact_BuisenssLayer\obj\Debug\Contact_BuisenssLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\Contact_BuisenssLayer\obj\Debug\Contact_BuisenssLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\Contact_BuisenssLayer\obj\Debug\Contact_BuisenssLayer.pdb

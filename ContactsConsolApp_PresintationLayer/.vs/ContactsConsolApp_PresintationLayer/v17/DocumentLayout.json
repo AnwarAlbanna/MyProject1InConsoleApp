@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactsConsolApp_PresintationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF32B16-5442-495A-AC87-9FAB165475F2}|..\\ContactDataAccessLayer\\ContactDataAccessLayer.csproj|c:\\users\\user\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\myprojectksacom\\contactdataaccesslayer\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF32B16-5442-495A-AC87-9FAB165475F2}|..\\ContactDataAccessLayer\\ContactDataAccessLayer.csproj|c:\\users\\user\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\myprojectksacom\\contactdataaccesslayer\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactDataAccessLayer\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "..\\ContactDataAccessLayer\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactDataAccessLayer\\ConnectionString.cs",
+              "RelativeToolTip": "..\\ContactDataAccessLayer\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:30:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactDataAccessLayer\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\ContactDataAccessLayer\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactDataAccessLayer\\DataAccessLayer.cs",
+              "RelativeToolTip": "..\\ContactDataAccessLayer\\DataAccessLayer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:40:08.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
